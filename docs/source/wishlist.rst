@@ -1,7 +1,7 @@
 .. _wishlist:
 
-Wishlist for future functionality:
-----------------------------------
+Functionality wishlist
+----------------------
 
 #. Add paired-end support for SPARTA
 
