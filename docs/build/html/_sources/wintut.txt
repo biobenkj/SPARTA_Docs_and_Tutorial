@@ -1,0 +1,4 @@
+.. _wintut:
+
+Windows tutorial
+================

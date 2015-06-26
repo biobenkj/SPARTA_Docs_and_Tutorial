@@ -1,0 +1,4 @@
+.. _lintut:
+
+Linux tutorial
+==============
