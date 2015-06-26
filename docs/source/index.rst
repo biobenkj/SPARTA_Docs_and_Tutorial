@@ -9,7 +9,7 @@ and edgeR (differential gene expression analysis). Within the differential gene 
 analysis step, batch effects can be detected and the user is warned of the potential, unintended
 additional variable. The analysis procedure is outlined below.
 
-.. image:: workflowprocedure.jpg
+.. image:: workflowprocedure.png
 	:align: center
 	:alt: Workflow Procedure
 
