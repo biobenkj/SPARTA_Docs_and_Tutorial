@@ -3,7 +3,7 @@
 Linux tutorial
 ==============
 
-**Download the workflow**: :download:`SPARTA for Linux <SPARTA_Linux.zip>`
+**Download the workflow**: `SPARTA for Linux <http://www.github.com/biobenkj/SPARTA_Linux/archive/master.zip>`_
 
 #. :ref:`introductionlinux`
 

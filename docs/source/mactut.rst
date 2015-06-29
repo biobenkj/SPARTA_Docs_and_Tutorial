@@ -3,7 +3,7 @@
 Mac OS X tutorial
 =================
 
-**Download the workflow**: :download:`SPARTA for Mac <SPARTA_Mac.zip>`
+**Download the workflow**: `SPARTA for Mac <http://www.github.com/biobenkj/SPARTA_Mac/archive/master.zip>`_
 
 #. :ref:`introduction`
 
